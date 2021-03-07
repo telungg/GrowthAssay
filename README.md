@@ -6,4 +6,4 @@ This code "GrowthAssay.ipynb" compiles the .csv files obtained for n hours and p
 
 An example of raw data from 1 time point can be seen at "GrowthAssaySampleRawData.csv".
 
-Hope this code can be useful, and please let me know if you have advice or suggestions.
+Please don't hesitate to contact me if you have any advice or suggestion.
